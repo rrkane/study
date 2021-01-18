@@ -4,7 +4,7 @@ Inspired by [vvksh](https://github.com/vvksh/learning_stuff), this is a place fo
 
 ## topics
 
-- [modern cryptography](https://github.com/rrkane/study/issues/1)
+- [cryptography](https://github.com/rrkane/study/issues/1): book notes
 
 ## latex rendering
 
