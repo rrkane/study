@@ -5,6 +5,7 @@ Inspired by [vvksh](https://github.com/vvksh/learning_stuff), this is a place fo
 ## topics
 
 - [cryptography](https://github.com/rrkane/study/issues/1): book notes
+- [database management](https://github.com/rrkane/study/issues/2): book notes
 
 ## latex rendering
 
