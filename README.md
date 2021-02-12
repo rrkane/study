@@ -2,11 +2,20 @@
 
 Inspired by [vvksh](https://github.com/vvksh/learning_stuff), this is a place for me to record notes on whatever I'm studying. Each topic has its own issue and comments track progress. I take these notes locally in markdown in VSCode and then copy them over here.
 
-## topics
+## current topics
 
 - [modern cryptography](https://github.com/rrkane/study/issues/1): book notes
 - [database management](https://github.com/rrkane/study/issues/2): book notes
 - [learning C](https://github.com/rrkane/study/issues/3): book notes
+
+## future topics
+
+Topics on which I would like to add notes:
+
+- Bitcoin
+- Ethereum/Truffle
+- networking (firewalls, DMZs, gateways, etc.)
+- Rust
 
 ## latex rendering
 
