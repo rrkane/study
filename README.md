@@ -16,6 +16,7 @@ Topics on which I would like to add notes:
 - Ethereum/Truffle
 - networking (firewalls, DMZs, gateways, etc.)
 - Rust
+- complex dynamics
 
 ## latex rendering
 
