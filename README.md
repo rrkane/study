@@ -7,12 +7,13 @@ Inspired by [vvksh](https://github.com/vvksh/learning_stuff), this is a place fo
 - [modern cryptography](https://github.com/rrkane/study/issues/1): book notes
 - [database management](https://github.com/rrkane/study/issues/2): book notes
 - [learning C](https://github.com/rrkane/study/issues/3): book notes
+- [bitcoin] (https://github.com/rrkane/study/issues/5): book notes
 
 ## future topics
 
 Topics on which I would like to add notes:
 
-- Bitcoin
+- SparkSQL, Scala
 - Ethereum/Truffle
 - networking (firewalls, DMZs, gateways, etc.)
 - Rust
