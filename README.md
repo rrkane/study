@@ -13,7 +13,6 @@ Inspired by [vvksh](https://github.com/vvksh/learning_stuff), this is a place fo
 
 Topics on which I would like to add notes:
 
-- SparkSQL, Scala
 - Ethereum/Truffle
 - networking (firewalls, DMZs, gateways, etc.)
 - Rust
